@@ -30,4 +30,7 @@ void main ()
         c=a/b;
         printf("%d/%d=%d",a ,b ,c);
     }
+     else{
+            printf("enter the valid sign \n");
+     }
 }
